@@ -1,0 +1,5 @@
+A Simple Food Delivery application made with React Native, with data stored and pulled from firebase firestore.![Screenshot_20250531-122042_Expo Go](https://github.com/user-attachments/assets/26ccb39b-50da-420f-8807-563e6a29ab77)
+![Screenshot_20250531-121741_Expo Go](https://github.com/user-attachments/assets/b6fbcaef-40ff-4776-890a-adb28b790aa9)
+![Screenshot_20250531-122046_Expo Go](https://github.com/user-attachments/assets/5d1492b6-1c79-4b24-928e-6def6d0ced34)
+![Screenshot_20250531-122032_Expo Go](https://github.com/user-attachments/assets/266d28ea-a74d-41f7-a8a6-0e06836c3372)
+![Screenshot_20250531-122027_Expo Go](https://github.com/user-attachments/assets/16cd2c9f-08bd-46af-bd0b-76709f4c98a6)
